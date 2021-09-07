@@ -1,1 +1,1 @@
-# discord.py-toutorial
+# discord.py-tutorial
